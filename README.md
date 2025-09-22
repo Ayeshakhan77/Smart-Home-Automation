@@ -1,4 +1,3 @@
-# Smart-Home-Automation
 # 🏠 Smart Home Automation System
 
 A **console-based Python project** that simulates a **Smart Home Automation System** using multiple **Behavioral Design Patterns**.  
